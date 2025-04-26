@@ -1,1 +1,4 @@
 venv/
+keys/
+data/usage/
+data/cache/
